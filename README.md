@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi there 👋v
 
 - 🔭 I’m currently chasing my PhD at Hunan University.
 - 🌱 My research interests include computer-vision-based transferring learning (domain adaptation and domain generalization), generalizable vision-language model, and prompt learning.
+- ✉ How to contact with me: zqfhnucsee@hnu.edu.cn
 
 ![zqf30's GitHub stats](https://github-readme-stats.vercel.app/api?username=zqf30&count_private=true)
 
