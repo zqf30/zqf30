@@ -1,4 +1,4 @@
-## Hi there 👋v
+## Hi there 👋
 
 - 🔭 I’m currently chasing my PhD at Hunan University.
 - 🌱 My research interests include computer-vision-based transferring learning (domain adaptation and domain generalization), generalizable vision-language model, and prompt learning.
