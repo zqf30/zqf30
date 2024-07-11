@@ -5,6 +5,8 @@
 
 ## News 📫
 2024.7.4: 🎉🎉 My first work is accepted by [ECAI-2024](https://www.ecai2024.eu/programme/accepted-papers), M69 (first author).
+
+[![zqf30's GitHub stats](https://github-readme-stats.vercel.app/api?username=zqf30)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **zqf30/zqf30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
